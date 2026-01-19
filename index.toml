@@ -924,6 +924,26 @@ hash = "551d9247d8cbba099f84e416ac50fe322f82401eef6800d3bfa159be521acb9b"
 metafile = true
 
 [[files]]
+file = "mods/configurable.pw.toml"
+hash = "335a6fe00b32ca70ea247cdccb0758bed44e41704471422788a3e2528c3bb69b"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "e661900027e02f1d44f54559e8d67a0b3b507b831be4eb05ab73a0133b22791e"
+metafile = true
+
+[[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "e0b829e2138938618eb2c65bc16f41aef69beb2fb59611a3559a1d0ad3506432"
+metafile = true
+
+[[files]]
+file = "mods/cyclops-core.pw.toml"
+hash = "6dece62eba1071de4e3c4321319b426bf73ae631a442fa494f6ec2eaa85c4b09"
+metafile = true
+
+[[files]]
 file = "mods/datapack-injector.pw.toml"
 hash = "669858bccb4357cf18fd7e6b479cf68589775cdef085731da0ee92d6414fa087"
 metafile = true
@@ -964,8 +984,28 @@ hash = "31f215793955ffc3e9880d902bb989980c3634e78df4263465f212d1ed9696b1"
 metafile = true
 
 [[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "39b4f43a271700276ff1ae632cf05f90b85f79670d955b50ced036e363a0efe9"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "7d134ff1f48d4eaca079c8669560faaf7b75230705d74109e1df26dee67d95c4"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "b22f1d052eee2810fda73d850dd6f425a1214965e03a5a9dada421abfe74603b"
+metafile = true
+
+[[files]]
+file = "mods/frozenlib.pw.toml"
+hash = "9f6dfe61b6e234d227a086612f96c0695361a6b16f856b2e98998f4be7ad9958"
+metafile = true
+
+[[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "1e2034f733c04aad97e685219b275bdf5f959854362d11a80347822216f05671"
 metafile = true
 
 [[files]]
@@ -1019,6 +1059,11 @@ hash = "61e1149d5642bb6bd3d2c718054107fa7a6f1b1044f5573d5ecbab3b94f9e281"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "3c1885d348f124734019deea226d1ecdd5ac183aac7115acf7d4108ffeb205a1"
+metafile = true
+
+[[files]]
 file = "mods/lost-relics.pw.toml"
 hash = "b12ef2cde6e295dc09813c5652cef648fa94702274fbae2bf270574b2e67e2b7"
 metafile = true
@@ -1026,6 +1071,11 @@ metafile = true
 [[files]]
 file = "mods/lovely_snails.pw.toml"
 hash = "a19a1676082a38ada864eae31363f15e7c40a766e2bd751e1f9a6168a57bef84"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "6324b634d5e464cf2606cce4e1d9b923701cad31764858d982fe0738129e0e4e"
 metafile = true
 
 [[files]]
@@ -1059,6 +1109,11 @@ hash = "7300a9d88fed322489256b2eda0599655a10c9443df2a66bbf456952214188dd"
 metafile = true
 
 [[files]]
+file = "mods/ohmega.pw.toml"
+hash = "183d97ed901919c5650b7e2738d5c984443815a9c9b3e15db35ed5b1c2c2c63b"
+metafile = true
+
+[[files]]
 file = "mods/omnihopper.pw.toml"
 hash = "6bcd7192277ad60eccedf52a55e8844ed530515acda5ac3072782a61ed5e797a"
 metafile = true
@@ -1071,6 +1126,11 @@ metafile = true
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "13369d7a10a47895f33629f000945d6bdf43f7b19a9ff1ca2ecfbc209c1ac431"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "548a21f091f48b62c91d69a3857648abc6cc70ea18ebeb2d0b649a6576773a27"
 metafile = true
 
 [[files]]
@@ -1094,6 +1154,11 @@ hash = "9ff1a261860fcb16a7c7f124d738abcdfc1297363412d237540685003ff04d6b"
 metafile = true
 
 [[files]]
+file = "mods/sodium.pw.toml"
+hash = "dd8c7eed10a3639d76595603142e1d18f6d26262747138c9442d70311006be5e"
+metafile = true
+
+[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "b01870e848aee7e1a2e19c6530bdd4c479b21a2f6f67134da75210844252d48f"
 metafile = true
@@ -1104,6 +1169,11 @@ hash = "a12d5708263878d66a269a146603f389e70f020bff2a7c6d38d396941acdf936"
 metafile = true
 
 [[files]]
+file = "mods/strawberrylib.pw.toml"
+hash = "c912ce57291710609be0ad7f44c53a393264c591511378e2610759cc5dfc684a"
+metafile = true
+
+[[files]]
 file = "mods/structory.pw.toml"
 hash = "70cd30931bd186fd3f9770062dd998774ac9e1c0cf478938a62d5815ffdcfe5b"
 metafile = true
@@ -1111,6 +1181,11 @@ metafile = true
 [[files]]
 file = "mods/tectonic.pw.toml"
 hash = "f19a743dcab0927ec66da55e57993563fc539c3b50733104152da71c18f8abf4"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "a11751cee1923f2e1ee313671b5bea0259dda32d5d20cd65b573f87b338577ed"
 metafile = true
 
 [[files]]
@@ -1139,6 +1214,11 @@ hash = "f5862523110dc5abda04f78f9810e79fb81b0f4e827777ffc93df9fb991d00fe"
 metafile = true
 
 [[files]]
+file = "mods/trailier-tales.pw.toml"
+hash = "55ce4cc0f90ff43959977a4afb61b74e15cca9c4a0038e22c711d9a0df0f05aa"
+metafile = true
+
+[[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "4e83c1af9a9c49d4ca7a67adc6370bcf58fabfa040ace15a62e6e96cdb3064b5"
 metafile = true
@@ -1151,4 +1231,9 @@ metafile = true
 [[files]]
 file = "mods/wilder-wild.pw.toml"
 hash = "6546e651e4b18d42e34a0af1c76fb251bbfe00654c190191beef1da803a02cf0"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "1113d43c39a9866252a83ee50d16aa3ce6fcf749acd84d58b05ca09eba4d187b"
 metafile = true
