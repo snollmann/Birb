@@ -3,8 +3,8 @@ filename = "minihud-fabric-1.21.11-0.38.2.jar"
 side = "client"
 
 [option]
-optional = "true"
-default = "true"
+optional = true
+default = true
 
 [download]
 url = "https://cdn.modrinth.com/data/UMxybHE8/versions/9AEkCyqe/minihud-fabric-1.21.11-0.38.2.jar"
