@@ -4,7 +4,7 @@ side = "client"
 
 [option]
 optional = true
-default = true
+default = false
 
 [download]
 url = "https://cdn.modrinth.com/data/bEpr0Arc/versions/zoLjBabk/litematica-fabric-1.21.11-0.25.4.jar"
