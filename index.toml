@@ -478,7 +478,7 @@ hash = "2158d806fef74938eb72aa28ebedf2ba9961064a69a60252e5c6024c84dca130"
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "564ba07765d3894f54a5d8886db7cf4b8c8fb8c83f18c8cfb1f042a115b44724"
+hash = "bf92613ee183463904a9d8785f0c7577c654b6e8d0843068e5f7516ea19c36f5"
 metafile = true
 
 [[files]]
@@ -488,12 +488,12 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "ed50f3b3feba91fa31915aefb40690bc322f37be83490e6b59a443e83a46a542"
+hash = "84f5dc0bc8c149ecdff16e342cfa692f29f5734e8d49811a74b46a832482b042"
 metafile = true
 
 [[files]]
-file = "mods/armor-statues.pw.toml"
-hash = "a79a59dbadc1b05b66dbba0e1509dfadfb14ddb09082dd7283e5182fa4c60927"
+file = "mods/armor-poser.pw.toml"
+hash = "a5d332d97f29c1f3b2ca274d9076169e11e71fa6b42f65536004a1d830a37727"
 metafile = true
 
 [[files]]
@@ -569,6 +569,11 @@ metafile = true
 [[files]]
 file = "mods/datapack-injector.pw.toml"
 hash = "669858bccb4357cf18fd7e6b479cf68589775cdef085731da0ee92d6414fa087"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "4e249b7d9c5dc22ffd4ad831caf170294822999968288aa9d355b6e17691e030"
 metafile = true
 
 [[files]]
@@ -658,22 +663,22 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "b7d33095f206cb34dc8cd3d5410a00597439a2fc793f4c158c7a2ecfc7e85e82"
+hash = "a6aed1596ff86d383fed9c105a0e9568affdba48adc0c13e71a30dc041161822"
 metafile = true
 
 [[files]]
 file = "mods/item-scroller.pw.toml"
-hash = "8643786cd883f7686a11f2bcc773acbe6559a7d3d13af3ed690e8d7fa58ef343"
+hash = "e59cef41e8f8d48eb8dcebca706cb58ac059879ab2ba3cb70e24a9bc414a88b2"
 metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "21caf1cc09d510a23284e704cb5211408085d5964e5d6ca129fc0dc175c8fb79"
+hash = "ab1503c7129d6e414237806acac3877da0c3e3e44369e190c72a8f77909fdad5"
 metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "71255e25b05b6529d6a2873e4db079b7b6541f58a78d872bc19478afcb0ffd1c"
+hash = "14dc0c88f1b580dc762a5a2dbb7f8ad4ce0d994ab02ea203794d5ace76f7ec1f"
 metafile = true
 
 [[files]]
@@ -688,7 +693,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "61e1149d5642bb6bd3d2c718054107fa7a6f1b1044f5573d5ecbab3b94f9e281"
+hash = "42d3afe1fcece81a7ed7a41566a8cb2d2b793e41f7c1a0ef50b98e9418901cba"
 metafile = true
 
 [[files]]
@@ -718,7 +723,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "6d26fbac2dca7845d5de9e5fbbe3dbcb7541ccb952e4f5f14a92e618d5448965"
+hash = "79517d8e73d304d1682a5a8776971fd367d25c6a57aa4f96beffe3970893c85b"
 metafile = true
 
 [[files]]
@@ -733,7 +738,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "4c4f8569adba682de05800e73690fec8ce64d9d86341862ac6d9315d9dec01eb"
+hash = "a8fadb4925520cb1dcd92ddb6c44b14bf9434a0832ce9e0141f66972eb40f51d"
 metafile = true
 
 [[files]]
@@ -768,7 +773,7 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
-hash = "13369d7a10a47895f33629f000945d6bdf43f7b19a9ff1ca2ecfbc209c1ac431"
+hash = "d3dfe828f7fe346c93684cd0b151c2d2cf611c9a4a11cca07be17626f67d5e95"
 metafile = true
 
 [[files]]
@@ -863,12 +868,17 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "4e83c1af9a9c49d4ca7a67adc6370bcf58fabfa040ace15a62e6e96cdb3064b5"
+hash = "5e01ea521dab0b8ca7a8e463440eadc349ebb5ee864b64cc11abecb8203bef0d"
 metafile = true
 
 [[files]]
 file = "mods/voice-chat-interaction.pw.toml"
 hash = "ef2b8e7326f3bb9f09ed6fe27271c42a99125b63fd9b738cf5eef991643284bf"
+metafile = true
+
+[[files]]
+file = "mods/voxy.pw.toml"
+hash = "05f2bfb438342548ecbbbc13c8cf2f9caa77ffafb46c8b4f2ecd02feb85420c6"
 metafile = true
 
 [[files]]

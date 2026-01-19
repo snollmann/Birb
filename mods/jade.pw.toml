@@ -2,6 +2,10 @@ name = "Jade 🔍"
 filename = "Jade-1.21.11-Fabric-21.1.1.jar"
 side = "both"
 
+[option]
+optional = "true"
+default = "true"
+
 [download]
 url = "https://cdn.modrinth.com/data/nvQzSEkH/versions/HKUAgY3D/Jade-1.21.11-Fabric-21.1.1.jar"
 hash-format = "sha512"
