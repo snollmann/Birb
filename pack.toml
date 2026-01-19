@@ -1,0 +1,13 @@
+name = "Birb"
+author = "sollmann"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3ff70167aec67f14f59a36ae8700140438ba781f0387cbdc20923fb4ad5e2c43"
+
+[versions]
+fabric = "0.18.4"
+minecraft = "1.21.11"

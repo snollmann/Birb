@@ -1,0 +1,16 @@
+filename = 'better-respawn-fabric-1.21.11-2.0.6.jar'
+name = 'Better Respawn'
+side = 'server'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.11' ]
+x-prismlauncher-release-type = 'alpha'
+
+[download]
+hash = 'd8e6dedbd10f94e1c6c45d0f4963d537173f0ebfa2857c386767c2525abebc52b129f4fc610416a4315941c01c64cbef8aaa61768ec1ab609d9fa2f7e286e15d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ZUQINcGy/versions/JWjSPLr9/better-respawn-fabric-1.21.11-2.0.6.jar'
+
+[update.modrinth]
+mod-id = 'ZUQINcGy'
+version = 'JWjSPLr9'

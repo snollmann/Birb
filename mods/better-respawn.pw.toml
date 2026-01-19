@@ -1,0 +1,13 @@
+name = "Better Respawn"
+filename = "better-respawn-fabric-1.21.11-2.0.6.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZUQINcGy/versions/JWjSPLr9/better-respawn-fabric-1.21.11-2.0.6.jar"
+hash-format = "sha512"
+hash = "d8e6dedbd10f94e1c6c45d0f4963d537173f0ebfa2857c386767c2525abebc52b129f4fc610416a4315941c01c64cbef8aaa61768ec1ab609d9fa2f7e286e15d"
+
+[update]
+[update.modrinth]
+mod-id = "ZUQINcGy"
+version = "JWjSPLr9"

@@ -1,0 +1,13 @@
+name = "Backslot Mod"
+filename = "backslot-1.1.5-fix.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FaerFwHL/versions/YgSN7HAF/backslot-1.1.5-fix.jar"
+hash-format = "sha512"
+hash = "8b4dfd5cb508eb15eeb5dc65023810ed011813f6788bff0a61709f2cd79362b47f8afbbcee4025339c3fd3e10dc2f7b5f2390891c0f6359c76450b22fc350983"
+
+[update]
+[update.modrinth]
+mod-id = "FaerFwHL"
+version = "YgSN7HAF"

@@ -1,0 +1,17 @@
+filename = 'toms_storage_fabric-1.21.11-2.7.3.jar'
+name = "Tom's Simple Storage Mod"
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.11', '1.21.11' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.21.11-2.7.3-fabric'
+
+[download]
+hash = 'f93f14be221cf8b2261fd964b9b92982680d4a5c674bfe4cbe484182b21393d537a3df79aae89b86a486df8b83fb84c92ba07bf5af6ab56dc26879984eaf7d35'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/XZNI4Cpy/versions/59gBQhQ5/toms_storage_fabric-1.21.11-2.7.3.jar'
+
+[update.modrinth]
+mod-id = 'XZNI4Cpy'
+version = '59gBQhQ5'

@@ -1,0 +1,13 @@
+name = "Wilder Wild"
+filename = "WilderWild-4.2.2-mc1.21.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AtHRJSUW/versions/BWVWzWjV/WilderWild-4.2.2-mc1.21.11.jar"
+hash-format = "sha512"
+hash = "8c7a985980a668789f55cc412194eb5b60ada14d7f2e3db41e7ff6cc78d91c2915052c395baffebbba7a0ddf23102430f45a88530aed0fd1e048f4fe9f170b2c"
+
+[update]
+[update.modrinth]
+mod-id = "AtHRJSUW"
+version = "BWVWzWjV"

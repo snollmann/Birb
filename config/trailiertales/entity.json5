@@ -1,0 +1,28 @@
+{
+	"apparition": {
+		"picks_up_items": true,
+		"catches_projectiles": true,
+		"ignore_mob_griefing": false,
+		"hypnotizes_mobs": true,
+		"haunts_players": true,
+		"haunted_coffins": true,
+		"haunted_fog": true,
+		"haunted_lightmap": true,
+		"haunted_sounds": true,
+		"haunted_hud": true,
+	},
+	"sniffer": {
+		"cyan_rose_seeds": true,
+		"manedrop_germs": true,
+		"guzmania_seeds": true,
+		"dawntrail_seeds": true,
+		"lithops_seeds": true,
+		"spawn": false,
+	},
+	"villager": {
+		"sell_catacombs_map": true,
+	},
+	"armorStand": {
+		"armor_stand_arms": true,
+	},
+}

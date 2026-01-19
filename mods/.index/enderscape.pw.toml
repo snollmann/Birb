@@ -1,0 +1,17 @@
+filename = 'enderscape-fabric-2.1.0+mc1.21.11.jar'
+name = 'Enderscape'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.11', '1.21.11' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.1.0'
+
+[download]
+hash = '6ac4ca5bb038519b4bfe9004c45c82279999562f5da92907e614ac88a47d6c41dd47f860dfe21c322fd01ebecb7be5dea6bea0e1505ae9e4742201be66dfd6ff'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/btCrWvHr/versions/3cYKvu3m/enderscape-fabric-2.1.0%2Bmc1.21.11.jar'
+
+[update.modrinth]
+mod-id = 'btCrWvHr'
+version = '3cYKvu3m'

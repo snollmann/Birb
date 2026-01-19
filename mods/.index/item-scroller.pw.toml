@@ -1,0 +1,16 @@
+filename = 'itemscroller-fabric-1.21.11-0.30.0.jar'
+name = 'Item Scroller'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.11' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '63df308687ef1f22596da2f6de038492792fc46c7a5f4532dd34e75908f0a7b7ea68c2415ff671d23a0ae2dfdfc8086479ecaf56326cf38db7d80f9bf3164034'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/JygyCSA4/versions/I9Ginfp2/itemscroller-fabric-1.21.11-0.30.0.jar'
+
+[update.modrinth]
+mod-id = 'JygyCSA4'
+version = 'I9Ginfp2'

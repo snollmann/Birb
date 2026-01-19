@@ -1,0 +1,13 @@
+name = "Armor Statues"
+filename = "ArmorStatues-v21.11.1-mc1.21.11-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bbGCtEvb/versions/rbHOYHpD/ArmorStatues-v21.11.1-mc1.21.11-Fabric.jar"
+hash-format = "sha512"
+hash = "3ec37d5ed3841fc44f7f61ddd528fbeb640c52acbfed79954b1ec59bf8a5910ac83aa31c7e271eaeeeae078f13d166da173e499e30b7928741d5d18805265221"
+
+[update]
+[update.modrinth]
+mod-id = "bbGCtEvb"
+version = "rbHOYHpD"

@@ -1,0 +1,17 @@
+filename = 'spyglass_improvements-1.5.12-beta+mc1.21.11+fabric.jar'
+name = 'Spyglass Improvements'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.11', '1.21.11' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '1.5.12-beta+mc1.21.11+fabric'
+
+[download]
+hash = '5087ab8f670bdef7ec18eb3872a11a6a35920402a79699bf793b3ed2488d1195029c51ea664b1d009c0bb8f42fde0fb65a9d222cffcb8e7784f82e32229509fc'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Z6ykjRlM/versions/ARIJY6Ew/spyglass_improvements-1.5.12-beta%2Bmc1.21.11%2Bfabric.jar'
+
+[update.modrinth]
+mod-id = 'Z6ykjRlM'
+version = 'ARIJY6Ew'
