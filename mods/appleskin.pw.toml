@@ -3,8 +3,8 @@ filename = "appleskin-fabric-mc1.21.11-3.0.7.jar"
 side = "both"
 
 [option]
-optional = "true"
-default = "true"
+optional = true
+default = true
 
 [download]
 url = "https://cdn.modrinth.com/data/EsAfCjCV/versions/pvcLnrm0/appleskin-fabric-mc1.21.11-3.0.7.jar"

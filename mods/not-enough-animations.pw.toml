@@ -3,8 +3,8 @@ filename = "notenoughanimations-fabric-1.11.1-mc1.21.11.jar"
 side = "client"
 
 [option]
-optional = "true"
-default = "true"
+optional = true
+default = true
 
 [download]
 url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/Dp0dn63B/notenoughanimations-fabric-1.11.1-mc1.21.11.jar"

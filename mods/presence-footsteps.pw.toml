@@ -3,8 +3,8 @@ filename = "PresenceFootsteps-1.12.3+1.21.11.jar"
 side = "client"
 
 [option]
-optional = "true"
-default = "true"
+optional = true
+default = true
 
 [download]
 url = "https://cdn.modrinth.com/data/rcTfTZr3/versions/eEkO3jAC/PresenceFootsteps-1.12.3%2B1.21.11.jar"

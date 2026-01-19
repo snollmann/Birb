@@ -478,7 +478,7 @@ hash = "2158d806fef74938eb72aa28ebedf2ba9961064a69a60252e5c6024c84dca130"
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "bf92613ee183463904a9d8785f0c7577c654b6e8d0843068e5f7516ea19c36f5"
+hash = "c8998f2654af7c1078c1dcbf7a176ba6f77740e1d25b2d7ec92bd752fc2b7077"
 metafile = true
 
 [[files]]
@@ -488,7 +488,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "84f5dc0bc8c149ecdff16e342cfa692f29f5734e8d49811a74b46a832482b042"
+hash = "15ca44c1ab428fb768a7fac391ee7e3539e82147b5e5b4df8ab33e541914bcc5"
 metafile = true
 
 [[files]]
@@ -519,6 +519,11 @@ metafile = true
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "01e666345c1d2831695616eecb9c9e774e5855b6576f6f6864846f377f92eb6d"
+metafile = true
+
+[[files]]
+file = "mods/bobby.pw.toml"
+hash = "ee8bac93c867eb95ad4878c9122242f5d1ec229b2f1c1a6d46e6999ab6e6ac58"
 metafile = true
 
 [[files]]
@@ -573,7 +578,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "4e249b7d9c5dc22ffd4ad831caf170294822999968288aa9d355b6e17691e030"
+hash = "c8bebaf6c470a4882cc5c17487f8e23031a091bd62fabea6013e1834778c3265"
 metafile = true
 
 [[files]]
@@ -663,22 +668,22 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "a6aed1596ff86d383fed9c105a0e9568affdba48adc0c13e71a30dc041161822"
+hash = "d286ca8f870f64dfe1a7e86adf0168bd5af0c90908b540ffc5670240b181d188"
 metafile = true
 
 [[files]]
 file = "mods/item-scroller.pw.toml"
-hash = "e59cef41e8f8d48eb8dcebca706cb58ac059879ab2ba3cb70e24a9bc414a88b2"
+hash = "e495314678fbd920d9c37af0a6c05b728fb27b9bc35670a1d5b7523e8ad3e9ce"
 metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "ab1503c7129d6e414237806acac3877da0c3e3e44369e190c72a8f77909fdad5"
+hash = "bbba11a17f2e7ff17f29ddeb1c3598ec9c3766db60b691f8a74fc2eda9d60d81"
 metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "14dc0c88f1b580dc762a5a2dbb7f8ad4ce0d994ab02ea203794d5ace76f7ec1f"
+hash = "98a1311c9b030a3b4f5febda1bff92ef3be576ed3e0fc99760e69fdcf3d98da6"
 metafile = true
 
 [[files]]
@@ -693,7 +698,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "42d3afe1fcece81a7ed7a41566a8cb2d2b793e41f7c1a0ef50b98e9418901cba"
+hash = "034524fd5464bbc7d6ef9e61626cb304dff493031822f0dd68d51f7052b31890"
 metafile = true
 
 [[files]]
@@ -738,7 +743,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "a8fadb4925520cb1dcd92ddb6c44b14bf9434a0832ce9e0141f66972eb40f51d"
+hash = "eb8679fb9657aaa7cb83835cd219a5467053664adbfb38ffc30a57e568a21e63"
 metafile = true
 
 [[files]]
@@ -773,7 +778,7 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
-hash = "d3dfe828f7fe346c93684cd0b151c2d2cf611c9a4a11cca07be17626f67d5e95"
+hash = "cb971278466988856160da962824a4a3214518ef42342e1969bebd23976399a0"
 metafile = true
 
 [[files]]
@@ -868,7 +873,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "5e01ea521dab0b8ca7a8e463440eadc349ebb5ee864b64cc11abecb8203bef0d"
+hash = "4ff85f369b800c9c18d849ce26ef5dfe116fa2261b3cac3cf736e281ecc662eb"
 metafile = true
 
 [[files]]
@@ -878,7 +883,7 @@ metafile = true
 
 [[files]]
 file = "mods/voxy.pw.toml"
-hash = "05f2bfb438342548ecbbbc13c8cf2f9caa77ffafb46c8b4f2ecd02feb85420c6"
+hash = "182d0f12d03c547159dcfb9198f6990af3bfcd4fcc4e77b75bfeabd4c8f4b81c"
 metafile = true
 
 [[files]]

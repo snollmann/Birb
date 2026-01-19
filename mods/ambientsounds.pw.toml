@@ -3,8 +3,8 @@ filename = "AmbientSounds_FABRIC_v6.3.3_mc1.21.11.jar"
 side = "client"
 
 [option]
-optional = "true"
-default = "true"
+optional = true
+default = true
 
 [download]
 url = "https://cdn.modrinth.com/data/fM515JnW/versions/iYzwKdCI/AmbientSounds_FABRIC_v6.3.3_mc1.21.11.jar"
