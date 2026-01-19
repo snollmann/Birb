@@ -1,6 +1,6 @@
 {
   "overlay": 0,
-  "extraZoom": false,
+  "extraZoom": true,
   "multiplierDelta": 0.1,
   "hideSettingsButton": false,
   "showCrossHair": false,

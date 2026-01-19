@@ -18,7 +18,7 @@ hash = "20083c85967c3c012f93de6be4f5ef0795f980742ca97d09ed1363c7d8550eb5"
 
 [[files]]
 file = "config/better_respawn/better_respawn.properties"
-hash = "0a38277ad6a47ab8dd3034fc25d6fbf7b8cebb42e0b3ee4f19fed979460e24b2"
+hash = "552d687fb1b55f64ad8924f26d78c544b111ac5f4f57d78992108bfa3948d485"
 
 [[files]]
 file = "config/biomesoplenty/biome_toggles.json"
@@ -46,7 +46,7 @@ hash = "9909d01cf9427ea5d70a66b5c52d2fb7c5e414d410c2e20ae58460661e780de5"
 
 [[files]]
 file = "config/carryon-common.json"
-hash = "9aacfa29cc077a92f2e601daf6b60a2d85e8731aa5b239d1ac86f96e89461420"
+hash = "995b2f5fd4939cf0df3168bebd3d11cbde1880d51c4ea586d91f359e634d2e59"
 
 [[files]]
 file = "config/chunky/config.json"
@@ -83,6 +83,14 @@ hash = "7de079178b9125685d78b1897aae3cb430dee4f3d72f44ffff235ea885d639e6"
 [[files]]
 file = "config/cristellib/nullscape/structure_toggle_config.json5"
 hash = "d12e2a741dc0ab4336291c1a7c396d19a312223e3cf382d202f32178b0bf0c46"
+
+[[files]]
+file = "config/cristellib/remnants/structure_placement_config.json5"
+hash = "bf341662f55b18cee6d40060fdcbc023b6641735d734780d94f164597fd5989c"
+
+[[files]]
+file = "config/cristellib/remnants/structure_toggle_config.json5"
+hash = "50da1beabeff2941eb7efaa018257a9ce8be98e26c5015effde1f8815d044dbc"
 
 [[files]]
 file = "config/cristellib/structory/structure_placement_config.json5"
@@ -142,11 +150,11 @@ hash = "56cb0584eea03bcb04a50aafad67188f02c631fcdad7eeaa8a82c0f9dff0815f"
 
 [[files]]
 file = "config/everlastingabilities-common.toml"
-hash = "f6121ce5f373358cf0fdfde38035962350f19ad6f2fd89ab250901b02d581349"
+hash = "56e7ecbdbc5dcbb0a77352e1ba76dc28db3b21699dbdd6da3b792abb8fbb9263"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "86f1578bcecbdb52b6172fe061d25b21decd75b0d9c12440ffc4ded0c37ae52c"
+hash = "557fcd8068ad023e7c2378d3ddca866f450dd2d2a2053fa8ebb13af8b9fee9e0"
 
 [[files]]
 file = "config/farmersdelight-client.json"
@@ -174,7 +182,7 @@ hash = "59f347223cf03955f61abfae7df6246ff66bc5c87cc44edaaf0fe6eeba8fa004"
 
 [[files]]
 file = "config/hardcorerevival-common.toml"
-hash = "37699b3a231497f1c63090de3e421e42d2cf352c9b2d4a48d7424457e381fcf8"
+hash = "027e60dd9b818d8b266a4f83f657814bd602b655d938456b113321a412d35b61"
 
 [[files]]
 file = "config/headpats.json"
@@ -190,7 +198,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "bdde668fe987a738273ae3257ad70d3b2b9813a6c82b6b946081f91a38193d0c"
+hash = "5f8984b42142dce1272360f893c295ea6f728f5f76bed623e34709b9f6d93a73"
 
 [[files]]
 file = "config/iteminteractions-client.toml"
@@ -218,7 +226,7 @@ hash = "085ae084a98180d4659ef60f9cf91281152a6e7b74a5a76c53f86e4f8f0d17f9"
 
 [[files]]
 file = "config/jade/jade.json"
-hash = "414b885bfa46e750520c581d6243c5b6f58ace1c64da4e2b9b8ded1fd27dc8c0"
+hash = "2aac27633dc9bcd473a31d2ae47bd3f2d7c1272688738a1c8f2dac97ae5b0bd1"
 
 [[files]]
 file = "config/jade/profiles/1/jade.json"
@@ -269,12 +277,16 @@ file = "config/minihud.json"
 hash = "39bd248902b3b3efea5d0bf2660c717c952251d44a9c7cc88ff0d951383328d2"
 
 [[files]]
+file = "config/modmenu.json"
+hash = "16d20c40cc6c114faff5493b561873fe160a65047720bc19fb3a3dd64aa67f3b"
+
+[[files]]
 file = "config/neruina.json5"
 hash = "ec19d7ed0ba06a589888b1c939f1e89be173114f769dbe78e0e93c17ffb40721"
 
 [[files]]
 file = "config/notenoughanimations.json"
-hash = "132ce7d973ae6e34cb464cdac25c777e7623ab80b46075d27e7f24dd1a419513"
+hash = "290ad5a67aff92b259f8fc0602b8c3f3468cd17d7691191a5e73bd4afc5cfeef"
 
 [[files]]
 file = "config/nycto.json"
@@ -290,15 +302,11 @@ hash = "e4ce86b6f9a72ac004c3143668b4429de1b1835e50ade6f7b994f416f5494add"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "7bfc99347dcfb2bd96da2a4c0e7d18d3ec79369fb185f6f6784a9a9dd6a26924"
+hash = "4a7efced9be3e946d8f50a26db25ef8cf7c59782036fd19150cf6220fa74aad7"
 
 [[files]]
 file = "config/pal.properties"
 hash = "ebb9946733577d4a19e82dd971c6efaa5ef49f65917e3bb807a527743c9339d3"
-
-[[files]]
-file = "config/peek/peek.properties"
-hash = "bedb645022aa4fd353f820bf8ca713525a9e3f1add25f512e0ac215ef467aa40"
 
 [[files]]
 file = "config/presencefootsteps/updater.json"
@@ -307,10 +315,6 @@ hash = "1e7c61df09c105e1eeca8cf3dcbdfeb976700e9904bcb3983fc7791adb7fad2e"
 [[files]]
 file = "config/presencefootsteps/userconfig.json5"
 hash = "2acbf79818769551f6d5d3972d24a3b5b675c88fe6fc4be60f2ef608b0e13e0c"
-
-[[files]]
-file = "config/quilt-loader.txt"
-hash = "0dc3911703c4c3ec1d375e9dee17f4106678a49e18e2279f687d2120a337f759"
 
 [[files]]
 file = "config/respawnablepets.json"
@@ -338,7 +342,7 @@ hash = "bc029afc200ba2fba522a27245d65c8e5db0f20cd0eddd5873a316054d962923"
 
 [[files]]
 file = "config/sound_physics_remastered/sound_rates.properties"
-hash = "5d34efad0e5ffc347f30830993dd3dfc68471019ab6d319893d347534e448a24"
+hash = "ac78fe47ab23cee63e30a0ff2d65f67dbe4cdf113ed7189f55fd20ec27e5d652"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -346,7 +350,7 @@ hash = "9573c64dd047712ef1c7ec7f8e2a2b442906f7272eb0c0c73986fc876a3e6235"
 
 [[files]]
 file = "config/spyglass-improvements/settings.json"
-hash = "33d7c69c71d5f19d3055e454f69541a0c1d663cb8d9a3f8dba391ddf10b658e5"
+hash = "c74ca13c7ac826845d25e611f430703069bc358aee9a5ab59e45c5ea5c9b0363"
 
 [[files]]
 file = "config/tectonic.json"
@@ -442,7 +446,7 @@ hash = "9d26ab6d71ba7cb35c18b10c52fc435d1fab89c68f537866a753b601f0d0a29a"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
-hash = "c8e228ae1d6d9f13fd0a51bc52df2ebc0a490eeca0da7794464775ff779fa406"
+hash = "1ac6290dc8b30462c90cf3830a3829a09bf002088bdce7ca7b65570feeadf07c"
 
 [[files]]
 file = "config/wilderwild/block.json5"

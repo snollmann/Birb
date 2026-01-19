@@ -15,7 +15,7 @@ allowPistols = false
 allowUnarmedMelee = false
 
 # The threshold of seconds that knockout will be treated as a consecutive knockout. See resumeTimerOnConsecutiveKnockout and multiplyTimerOnConsecutiveKnockout.
-consecutiveKnockoutThresholdSeconds = 40
+consecutiveKnockoutThresholdSeconds = 90
 
 # If true, the timer until death continues even if the player logs out.
 continueTimerWhileOffline = false
@@ -24,7 +24,7 @@ continueTimerWhileOffline = false
 disableInLonelyMultiplayer = false
 
 # If true, Hardcore Revival will not be active in singleplayer.
-disableInSingleplayer = false
+disableInSingleplayer = true
 
 # If true, knocked out players will glow, making them visible through blocks.
 glowOnKnockout = true
@@ -36,7 +36,7 @@ instantDeathEntityTypes = [  ]
 instantDeathSources = [ "minecraft:lava" ]
 
 # The multiplier to apply to the time remaining on consecutive knockouts.
-multiplyTimerOnConsecutiveKnockout = 1.0
+multiplyTimerOnConsecutiveKnockout = 0.75
 
 # The time in ticks it takes to rescue a player. 20 ticks are one second.
 rescueActionTicks = 40
@@ -48,14 +48,14 @@ rescueDistance = 3.0
 rescueRespawnEffects = [ "minecraft:hunger|600|0", "minecraft:weakness|1200|0" ]
 
 # The food level to respawn with when a player was rescued, out of 20.
-rescueRespawnFoodLevel = 5
+rescueRespawnFoodLevel = 10
 
 # The amount of health to respawn with when a player was rescued, out of 20.
 rescueRespawnHealth = 1
 
 # If true, the timer until death resumes from its last time on consecutive knockouts.
-resumeTimerOnConsecutiveKnockout = false
+resumeTimerOnConsecutiveKnockout = true
 
 # The time in seconds in which a player can still be rescued from death. Set to 0 to disable the timer.
-secondsUntilDeath = 120
+secondsUntilDeath = 240
 
