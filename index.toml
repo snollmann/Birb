@@ -924,6 +924,11 @@ hash = "551d9247d8cbba099f84e416ac50fe322f82401eef6800d3bfa159be521acb9b"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "a06ef129798265e0d7249426fb0ed5c506725b0460dc3dfdb975b8978480895e"
+metafile = true
+
+[[files]]
 file = "mods/configurable.pw.toml"
 hash = "335a6fe00b32ca70ea247cdccb0758bed44e41704471422788a3e2528c3bb69b"
 metafile = true
@@ -1089,6 +1094,11 @@ hash = "6d26fbac2dca7845d5de9e5fbbe3dbcb7541ccb952e4f5f14a92e618d5448965"
 metafile = true
 
 [[files]]
+file = "mods/modmenu.pw.toml"
+hash = "51ff93e279e03cb3cd77a5be0df777cdcd975d35b5149180d9dc724e47168c76"
+metafile = true
+
+[[files]]
 file = "mods/neruina.pw.toml"
 hash = "2e1722254b5b65681dde651b97a8098a101f2c5112cfd51ff8129300053a96e5"
 metafile = true
@@ -1121,6 +1131,11 @@ metafile = true
 [[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "3b1cab0b2f9ff5880e8b82c53c47cf502c4b47f74a45f4a9a45a6aef0de24b9a"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "e674752dd4dd07c33d9b94f6e19c15ef893c356c3c5ed77aeaf35cf6d2325130"
 metafile = true
 
 [[files]]
