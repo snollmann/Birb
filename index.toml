@@ -490,7 +490,7 @@ metafile = true
 
 [[files]]
 file = "mods/audioplayer.pw.toml"
-hash = "5f2f0ac0042cf3a274098074d3acee7e61692d1c0a2ef87d883f9607aeefef9d"
+hash = "00badc0ab16c28bc2b1a9c1d6bf5491f62a874d0d60083de3fd0807c9eb7e1b0"
 metafile = true
 
 [[files]]
@@ -505,7 +505,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-respawn.pw.toml"
-hash = "1bfac316f155b5017320192baf93a88bdcd6f015feeb09a75d01c5c57a0cf0c5"
+hash = "f63944314d31f905022b200cb1d16473b72050e4dcdea7de22a5c5457f438fbd"
 metafile = true
 
 [[files]]
@@ -665,7 +665,7 @@ metafile = true
 
 [[files]]
 file = "mods/leaves-be-gone.pw.toml"
-hash = "225c4d26ae5d2345591ce23340cdaf9009a46a1fc46a7cb054795cd8403efe56"
+hash = "57537f96f4fb3b21696106700e6540aea4e389dc7952aaa6f6d523c49381f7de"
 metafile = true
 
 [[files]]
