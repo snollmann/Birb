@@ -485,7 +485,7 @@ metafile = true
 
 [[files]]
 file = "mods/armor-statues.pw.toml"
-hash = "a79a59dbadc1b05b66dbba0e1509dfadfb14ddb09082dd7283e5182fa4c60927"
+hash = "f7c17c951b159123ebd0b27d5d7de0506a00c80caa168fdb481091ee0893ce44"
 metafile = true
 
 [[files]]
