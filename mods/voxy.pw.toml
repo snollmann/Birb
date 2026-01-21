@@ -4,7 +4,7 @@ side = "client"
 
 [option]
 optional = true
-default = true
+default = false
 
 [download]
 url = "https://cdn.modrinth.com/data/fxxUqruK/versions/1rOxxZT5/voxy-0.2.9-alpha-1.21.11.jar"
