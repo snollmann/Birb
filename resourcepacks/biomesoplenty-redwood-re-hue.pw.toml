@@ -1,0 +1,13 @@
+name = "Biomes'O'Plenty Redwood Re-Hue"
+filename = "biome-o-plenty-accurate-redwood-texture.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/y3RICxTC/versions/ttaDDwYl/biome-o-plenty-accurate-redwood-texture.zip"
+hash-format = "sha512"
+hash = "afb9328ad0df26cbf96304a896252604806112216168e79b640f6db9933df9eef6e154937a82ecc8794937f22b4c04358cfeb6536a10f4d81290be7182ce2e9c"
+
+[update]
+[update.modrinth]
+mod-id = "y3RICxTC"
+version = "ttaDDwYl"

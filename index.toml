@@ -906,3 +906,8 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "1113d43c39a9866252a83ee50d16aa3ce6fcf749acd84d58b05ca09eba4d187b"
 metafile = true
+
+[[files]]
+file = "resourcepacks/biomesoplenty-redwood-re-hue.pw.toml"
+hash = "d466ef66653caa48bcbdd4597937035e1f24c58a1598e5ab55056bd1e9bdb721"
+metafile = true
