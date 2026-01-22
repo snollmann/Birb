@@ -5,10 +5,6 @@ file = "config/appleskin.json5"
 hash = "65edc28ca2bf6bd3e3684ae545fb74bcc0ec935a40d6ac60cb68c00c152e34fb"
 
 [[files]]
-file = "config/armorstatues-client.toml"
-hash = "02fa62a5e5de124174d2fe1e363d47e451d1b2969f7d8c228f36aba6dd329bd3"
-
-[[files]]
 file = "config/audioplayer/audioplayer-server.properties"
 hash = "a7ed36f5ff180f3016c426c9819ff6338b41aaba0b45df5f439088e7deb86dfa"
 
@@ -518,7 +514,7 @@ metafile = true
 
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
-hash = "01e666345c1d2831695616eecb9c9e774e5855b6576f6f6864846f377f92eb6d"
+hash = "f9f755b707d7ae4695c2d296be85ac0f110cfa80cd0f3e115c300a020f6eceee"
 metafile = true
 
 [[files]]
@@ -613,7 +609,7 @@ metafile = true
 
 [[files]]
 file = "mods/everlasting-abilities.pw.toml"
-hash = "31f215793955ffc3e9880d902bb989980c3634e78df4263465f212d1ed9696b1"
+hash = "e53c991d65995560342b29e9f8823a773c6c22a8cdc0a570e926649794fb8c02"
 metafile = true
 
 [[files]]
