@@ -1,0 +1,13 @@
+name = "Party Creepers"
+filename = "PartyCreepers-v21.11.0-mc1.21.11-Fabric.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/YiQCYsjo/versions/aHP9Ju2T/PartyCreepers-v21.11.0-mc1.21.11-Fabric.jar"
+hash-format = "sha512"
+hash = "cb256713e43dd2617eaeb8ec467ee3b5235d650553b2da13a891121d863605de4e5fe789e5cd90787f220125c7d9f8dba85c450e0cb6b8edbaa60300273affb3"
+
+[update]
+[update.modrinth]
+mod-id = "YiQCYsjo"
+version = "aHP9Ju2T"
