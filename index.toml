@@ -182,7 +182,7 @@ hash = "59f347223cf03955f61abfae7df6246ff66bc5c87cc44edaaf0fe6eeba8fa004"
 
 [[files]]
 file = "config/hardcorerevival-common.toml"
-hash = "027e60dd9b818d8b266a4f83f657814bd602b655d938456b113321a412d35b61"
+hash = "f216d6f0d64677fb172ee8d3e0aaa0cbc054acba8eb05e1dbbadae6b11de40ec"
 
 [[files]]
 file = "config/headpats.json"
@@ -769,6 +769,11 @@ metafile = true
 [[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "3b1cab0b2f9ff5880e8b82c53c47cf502c4b47f74a45f4a9a45a6aef0de24b9a"
+metafile = true
+
+[[files]]
+file = "mods/party-creepers.pw.toml"
+hash = "631560d9f84b10d1da580e2eb8f58e5660ab518c53dcabd4cfc58c491a6c0824"
 metafile = true
 
 [[files]]

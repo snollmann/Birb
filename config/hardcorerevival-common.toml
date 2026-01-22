@@ -45,7 +45,7 @@ rescueActionTicks = 40
 rescueDistance = 3.0
 
 # Effects applied to a player when rescued, in the format "effect|duration|amplifier"
-rescueRespawnEffects = [ "minecraft:hunger|600|0", "minecraft:weakness|1200|0" ]
+rescueRespawnEffects = [ "minecraft:slowness|600|0", "minecraft:weakness|1200|0" ]
 
 # The food level to respawn with when a player was rescued, out of 20.
 rescueRespawnFoodLevel = 10
