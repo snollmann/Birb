@@ -842,6 +842,11 @@ hash = "70cd30931bd186fd3f9770062dd998774ac9e1c0cf478938a62d5815ffdcfe5b"
 metafile = true
 
 [[files]]
+file = "mods/superb-steeds.pw.toml"
+hash = "b48f74fff350f7e67d1c18186af4d44349d8cd442a556d2e21a1fe9be7d804ec"
+metafile = true
+
+[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "f19a743dcab0927ec66da55e57993563fc539c3b50733104152da71c18f8abf4"
 metafile = true
