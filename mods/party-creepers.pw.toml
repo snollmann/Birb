@@ -1,6 +1,6 @@
 name = "Party Creepers"
 filename = "PartyCreepers-v21.11.0-mc1.21.11-Fabric.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/YiQCYsjo/versions/aHP9Ju2T/PartyCreepers-v21.11.0-mc1.21.11-Fabric.jar"
