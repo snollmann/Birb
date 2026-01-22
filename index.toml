@@ -503,7 +503,7 @@ metafile = true
 
 [[files]]
 file = "mods/backslot-mod.pw.toml"
-hash = "97ddce3176ab8e2510161b12546d8080caceb51d7f16d917f39dd3996da5d667"
+hash = "4388d829b46a90f67dd4aefe9e764d9704fe4a32f494e77206c954368b3a7c83"
 metafile = true
 
 [[files]]
@@ -758,7 +758,7 @@ metafile = true
 
 [[files]]
 file = "mods/ohmega.pw.toml"
-hash = "183d97ed901919c5650b7e2738d5c984443815a9c9b3e15db35ed5b1c2c2c63b"
+hash = "86aa255bd0933bb18b47f161bdae948ecb79627a47ccc16392e59f06d7d3edac"
 metafile = true
 
 [[files]]

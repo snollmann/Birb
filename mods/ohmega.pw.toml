@@ -1,13 +1,13 @@
 name = "Ohmega"
-filename = "ohmega-1.5.10-fabric+1.21.11.jar"
+filename = "ohmega-1.5.11-fabric+1.21.11.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/scvT0o5w/versions/XvmpKZwk/ohmega-1.5.10-fabric%2B1.21.11.jar"
+url = "https://cdn.modrinth.com/data/scvT0o5w/versions/6FnmfvSU/ohmega-1.5.11-fabric%2B1.21.11.jar"
 hash-format = "sha512"
-hash = "69f204b5990b37dc95427ebc1dd73af792b53243ceaf1dacac36951310843863a26686496b69651d01dab95076d00b1a9f2e4746225d32fc2265275c54c49d72"
+hash = "68010159a2a242b8d771ebad790eebfa40c33a8e449df5bf3a2a8d8086866274c6349754f426a3db0fc34b416fe3d39883b46e448c068bd765693492071cc96d"
 
 [update]
 [update.modrinth]
 mod-id = "scvT0o5w"
-version = "XvmpKZwk"
+version = "6FnmfvSU"
