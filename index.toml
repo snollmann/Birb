@@ -445,26 +445,6 @@ file = "config/voicechat/voicechat-server.properties"
 hash = "1ac6290dc8b30462c90cf3830a3829a09bf002088bdce7ca7b65570feeadf07c"
 
 [[files]]
-file = "config/wilderwild/block.json5"
-hash = "3832fb096d610cd354bccfd79d76fab70731c320f3ac274de1f1a22999a14cfd"
-
-[[files]]
-file = "config/wilderwild/entity.json5"
-hash = "b0b7c478e17e37c93fd4015cbaf417853ca0e9834be3c065620e0e5a1e9be3d6"
-
-[[files]]
-file = "config/wilderwild/misc.json5"
-hash = "71b2a3fa042383d1078fdc9b4eebdfd44bcfaea588628acfef3347b435d598c3"
-
-[[files]]
-file = "config/wilderwild/mixins.json5"
-hash = "b2d408053f19c0438a0ce91d4e94684c5b405cffeb635d21e6eccd390c35409f"
-
-[[files]]
-file = "config/wilderwild/worldgen.json5"
-hash = "94a66330ea4e2b870dc5dd0ccdd948fcbdb667f1e2f2c97359825ecb58fac1e2"
-
-[[files]]
 file = "config/yacl.json5"
 hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 
@@ -638,6 +618,11 @@ hash = "9f6dfe61b6e234d227a086612f96c0695361a6b16f856b2e98998f4be7ad9958"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "07c66af3e88644d4340f2de527b2db62a7983d38d2b44aaf3f58aba265d312cc"
+metafile = true
+
+[[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "1e2034f733c04aad97e685219b275bdf5f959854362d11a80347822216f05671"
 metafile = true
@@ -793,11 +778,6 @@ hash = "54bb24a1eadc460db4f0d3066001cf409e682a02a2ecd22500531185791fa41b"
 metafile = true
 
 [[files]]
-file = "mods/remnants.pw.toml"
-hash = "04b7ac6bfb765ecc2f0682292c3ba258086fbc10bbbe17aab47d10673eb2441a"
-metafile = true
-
-[[files]]
 file = "mods/respawnable-pets.pw.toml"
 hash = "acf62dbb277f3423ce6c04efca3e5c1d036308a5d96b3ba5233a0d2b969eb943"
 metafile = true
@@ -888,6 +868,11 @@ hash = "b4b3641e82805060ec8725622bea9d5af5e3ae935d68c453303c0c419bd4c38d"
 metafile = true
 
 [[files]]
+file = "mods/untitled-duck-mod.pw.toml"
+hash = "84aefe21b0b163a00b3d843b9751f3012edd215d3d0708b8399bcda3d8e007de"
+metafile = true
+
+[[files]]
 file = "mods/voice-chat-interaction.pw.toml"
 hash = "ef2b8e7326f3bb9f09ed6fe27271c42a99125b63fd9b738cf5eef991643284bf"
 metafile = true
@@ -895,11 +880,6 @@ metafile = true
 [[files]]
 file = "mods/voxy.pw.toml"
 hash = "4d29eaf51e68bb2600db90b5cc14eaad679a0adfdd1fd3b4267cd32941937703"
-metafile = true
-
-[[files]]
-file = "mods/wilder-wild.pw.toml"
-hash = "6546e651e4b18d42e34a0af1c76fb251bbfe00654c190191beef1da803a02cf0"
 metafile = true
 
 [[files]]
