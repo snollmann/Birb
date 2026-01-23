@@ -449,6 +449,10 @@ file = "config/yacl.json5"
 hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 
 [[files]]
+file = "datapacks/Dying_Hurts.zip"
+hash = "561f1d307dfdb29849230211d6a83398d52460ded01f02b4bfc564f6aa8565ca"
+
+[[files]]
 file = "datapacks/Remove_Terralith_Intro_Message_v1.1.zip"
 hash = "2158d806fef74938eb72aa28ebedf2ba9961064a69a60252e5c6024c84dca130"
 
