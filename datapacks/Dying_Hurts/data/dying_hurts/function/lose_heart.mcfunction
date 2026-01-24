@@ -1,0 +1,1 @@
+attribute @s minecraft:max_health modifier add dying_hurts:$(id) -2 add_value

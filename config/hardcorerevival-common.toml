@@ -36,7 +36,7 @@ instantDeathEntityTypes = [  ]
 instantDeathSources = [ "minecraft:lava" ]
 
 # The multiplier to apply to the time remaining on consecutive knockouts.
-multiplyTimerOnConsecutiveKnockout = 0.75
+multiplyTimerOnConsecutiveKnockout = 0.55
 
 # The time in ticks it takes to rescue a player. 20 ticks are one second.
 rescueActionTicks = 40

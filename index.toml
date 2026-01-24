@@ -146,7 +146,7 @@ hash = "56cb0584eea03bcb04a50aafad67188f02c631fcdad7eeaa8a82c0f9dff0815f"
 
 [[files]]
 file = "config/everlastingabilities-common.toml"
-hash = "56e7ecbdbc5dcbb0a77352e1ba76dc28db3b21699dbdd6da3b792abb8fbb9263"
+hash = "f49ddeed0a8e1017d5453d47cb72178736d063e6d00a3c73469058c9f8e0e75f"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
@@ -178,7 +178,7 @@ hash = "59f347223cf03955f61abfae7df6246ff66bc5c87cc44edaaf0fe6eeba8fa004"
 
 [[files]]
 file = "config/hardcorerevival-common.toml"
-hash = "f216d6f0d64677fb172ee8d3e0aaa0cbc054acba8eb05e1dbbadae6b11de40ec"
+hash = "a6f0aef07a98cd27bdf19c1354b35b544846771ea022d67df484023f15c8c7e5"
 
 [[files]]
 file = "config/headpats.json"
@@ -186,7 +186,7 @@ hash = "2e955cc921365ca418a8bfdc4385e40790f4f67fe17649b4cb3290ecfce582e6"
 
 [[files]]
 file = "config/inferno.json"
-hash = "ecc918e731a3b2ee5e56fc0a21702e160436f2da3096f44a9f7e140818ae04ec"
+hash = "b9276fb207ed0294d5822498dfcfe2ab49142a3d9514ae9f39b5ce409b51d963"
 
 [[files]]
 file = "config/iris-excluded.json"
@@ -449,8 +449,32 @@ file = "config/yacl.json5"
 hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 
 [[files]]
-file = "datapacks/Dying_Hurts.zip"
-hash = "561f1d307dfdb29849230211d6a83398d52460ded01f02b4bfc564f6aa8565ca"
+file = "datapacks/Dying_Hurts/data/dying_hurts/advancement/take_damage.json"
+hash = "49707c5ff14c07a9f9753597b258d6b94627943ef5d4490333f3f32a034c9619"
+
+[[files]]
+file = "datapacks/Dying_Hurts/data/dying_hurts/function/die.mcfunction"
+hash = "df59ccb50c6dbdbf54f1bf567460ee4658160e510653d639f202964ff35ac1bc"
+
+[[files]]
+file = "datapacks/Dying_Hurts/data/dying_hurts/function/hurt.mcfunction"
+hash = "6305a795a888e0a2c9b29b8a57aab2729156b29ed4e80fae1b7c8196c9534483"
+
+[[files]]
+file = "datapacks/Dying_Hurts/data/dying_hurts/function/init.mcfunction"
+hash = "65fb2849b8b4f7a5bfb1a5ca053926d195639de83744c0fa6690dfc0e7399c98"
+
+[[files]]
+file = "datapacks/Dying_Hurts/data/dying_hurts/function/lose_heart.mcfunction"
+hash = "215d94cc8070feee5abdf086465f5bd1a047e552bd264340fb3152f36b778d4a"
+
+[[files]]
+file = "datapacks/Dying_Hurts/data/minecraft/tags/function/load.json"
+hash = "7933d70a8187ca36610910cfca066386aca0ec19dc45bf077ed1366ffbb8c02d"
+
+[[files]]
+file = "datapacks/Dying_Hurts/pack.mcmeta"
+hash = "d9551036794f2e4313261a76f0c7d34025932fc81222c23a1f4bd568638c4d8f"
 
 [[files]]
 file = "datapacks/Remove_Terralith_Intro_Message_v1.1.zip"
