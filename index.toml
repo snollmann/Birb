@@ -6,7 +6,7 @@ hash = "65edc28ca2bf6bd3e3684ae545fb74bcc0ec935a40d6ac60cb68c00c152e34fb"
 
 [[files]]
 file = "config/audioplayer/audioplayer-server.properties"
-hash = "a7ed36f5ff180f3016c426c9819ff6338b41aaba0b45df5f439088e7deb86dfa"
+hash = "45982393470b56bca30a14ed0ae9292656438ec3610694ab1871258e60f748ea"
 
 [[files]]
 file = "config/backslot.json"
