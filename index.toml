@@ -146,7 +146,7 @@ hash = "56cb0584eea03bcb04a50aafad67188f02c631fcdad7eeaa8a82c0f9dff0815f"
 
 [[files]]
 file = "config/everlastingabilities-common.toml"
-hash = "f49ddeed0a8e1017d5453d47cb72178736d063e6d00a3c73469058c9f8e0e75f"
+hash = "afb646c5374158c2210db0d0282485dff8f1dea9b513c4e6bfb109cbacfe39af"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
@@ -671,6 +671,11 @@ hash = "08aa551852ddebfe6ab99d51d3b036aec441625989404b23165c5f27fa921457"
 metafile = true
 
 [[files]]
+file = "mods/immersive-ui.pw.toml"
+hash = "182ff17259337fe5b97e0a4fe5aa8fd3a906d80e1655b0b32c44017fde74eab6"
+metafile = true
+
+[[files]]
 file = "mods/inferno.pw.toml"
 hash = "77a95e4c6d398232384f1ee0a784f7821cdc72e0ff3b60764cadbc3f2e055364"
 metafile = true
@@ -771,8 +776,8 @@ hash = "7300a9d88fed322489256b2eda0599655a10c9443df2a66bbf456952214188dd"
 metafile = true
 
 [[files]]
-file = "mods/nyfs-spiders.pw.toml"
-hash = "2ae281c251c6437ade6150f68fa89f3f750d505a1162684bf30cc9a5681cb072"
+file = "mods/octo-lib.pw.toml"
+hash = "da97620d0551191c259633aafd3ec6e206d78d61a2b6393f0b8698a7ae949d63"
 metafile = true
 
 [[files]]
