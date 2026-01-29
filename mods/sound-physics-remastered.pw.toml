@@ -2,6 +2,10 @@ name = "Sound Physics Remastered"
 filename = "sound-physics-remastered-fabric-1.21.11-1.5.1.jar"
 side = "both"
 
+[option]
+optional = true
+default = true
+
 [download]
 url = "https://cdn.modrinth.com/data/qyVF9oeo/versions/pfqxi9qs/sound-physics-remastered-fabric-1.21.11-1.5.1.jar"
 hash-format = "sha512"
