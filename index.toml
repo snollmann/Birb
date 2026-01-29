@@ -771,6 +771,11 @@ hash = "7300a9d88fed322489256b2eda0599655a10c9443df2a66bbf456952214188dd"
 metafile = true
 
 [[files]]
+file = "mods/nyfs-spiders.pw.toml"
+hash = "2ae281c251c6437ade6150f68fa89f3f750d505a1162684bf30cc9a5681cb072"
+metafile = true
+
+[[files]]
 file = "mods/ohmega.pw.toml"
 hash = "86aa255bd0933bb18b47f161bdae948ecb79627a47ccc16392e59f06d7d3edac"
 metafile = true
