@@ -746,6 +746,11 @@ hash = "51ff93e279e03cb3cd77a5be0df777cdcd975d35b5149180d9dc724e47168c76"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "3426a04404bc4e057d40cdd4aecdbba1b6b81e673479590ff1e493d434c48acf"
+metafile = true
+
+[[files]]
 file = "mods/neruina.pw.toml"
 hash = "2e1722254b5b65681dde651b97a8098a101f2c5112cfd51ff8129300053a96e5"
 metafile = true
