@@ -30,7 +30,7 @@
 
 	[core.ability_totem]
 		#The loot tables in which totems should be spawned.
-		lootTables = ["minecraft:chests/nether_bridge", "minecraft:chests/simple_dungeon", "minecraft:chests/jungle_temple", "minecraft:chests/ancient_city", "minecraft:chests/end_city_treasure", "minecraft:chests/bastion_treasure"]
+		lootTables = ["minecraft:chests/nether_bridge", "minecraft:chests/simple_dungeon", "minecraft:chests/jungle_temple", "minecraft:chests/ancient_city", "minecraft:chests/end_city_treasure", "minecraft:chests/bastion_treasure", "minecraft:chests/trial_chambers/reward_ominous_rare", "minecraft:chests/trial_chambers/reward_unique"]
 		#This many totems combined in a crafting grid produces a new random totem (0 to disable)
 		totemCraftingCount = 3
 		#When combining totems, percentage chance of getting one higher rarity than normal.

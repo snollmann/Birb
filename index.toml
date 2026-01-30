@@ -146,7 +146,7 @@ hash = "56cb0584eea03bcb04a50aafad67188f02c631fcdad7eeaa8a82c0f9dff0815f"
 
 [[files]]
 file = "config/everlastingabilities-common.toml"
-hash = "afb646c5374158c2210db0d0282485dff8f1dea9b513c4e6bfb109cbacfe39af"
+hash = "bf6e9e32046d17333f5108014efb9acd0a7f21c9d5e1e6d68a3d7f397b8a4a62"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
