@@ -496,6 +496,11 @@ hash = "15ca44c1ab428fb768a7fac391ee7e3539e82147b5e5b4df8ab33e541914bcc5"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "ff1763afa21669a76a9ca65735944986ec4ef7a0d440b98ee2154aafa46356c8"
+metafile = true
+
+[[files]]
 file = "mods/armor-poser.pw.toml"
 hash = "a5d332d97f29c1f3b2ca274d9076169e11e71fa6b42f65536004a1d830a37727"
 metafile = true
@@ -777,7 +782,7 @@ metafile = true
 
 [[files]]
 file = "mods/octo-lib.pw.toml"
-hash = "8581be038358053286094781f57c1e8d721da42e2feff33ce066153205fe75ea"
+hash = "da97620d0551191c259633aafd3ec6e206d78d61a2b6393f0b8698a7ae949d63"
 metafile = true
 
 [[files]]

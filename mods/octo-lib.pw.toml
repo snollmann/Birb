@@ -1,6 +1,6 @@
 name = "OctoLib"
 filename = "ShatterLib-FABRIC-0.6.0.6+1.21.11.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/RH2KUdKJ/versions/qILuB0de/ShatterLib-FABRIC-0.6.0.6%2B1.21.11.jar"
