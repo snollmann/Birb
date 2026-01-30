@@ -671,6 +671,11 @@ hash = "08aa551852ddebfe6ab99d51d3b036aec441625989404b23165c5f27fa921457"
 metafile = true
 
 [[files]]
+file = "mods/immersive-ui.pw.toml"
+hash = "182ff17259337fe5b97e0a4fe5aa8fd3a906d80e1655b0b32c44017fde74eab6"
+metafile = true
+
+[[files]]
 file = "mods/inferno.pw.toml"
 hash = "77a95e4c6d398232384f1ee0a784f7821cdc72e0ff3b60764cadbc3f2e055364"
 metafile = true
@@ -771,6 +776,11 @@ hash = "7300a9d88fed322489256b2eda0599655a10c9443df2a66bbf456952214188dd"
 metafile = true
 
 [[files]]
+file = "mods/octo-lib.pw.toml"
+hash = "da97620d0551191c259633aafd3ec6e206d78d61a2b6393f0b8698a7ae949d63"
+metafile = true
+
+[[files]]
 file = "mods/ohmega.pw.toml"
 hash = "86aa255bd0933bb18b47f161bdae948ecb79627a47ccc16392e59f06d7d3edac"
 metafile = true
@@ -832,7 +842,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "b01870e848aee7e1a2e19c6530bdd4c479b21a2f6f67134da75210844252d48f"
+hash = "5d366e6e3d4e6815e76fa67577f0224ee8260cf938462f295b17438cd6232efc"
 metafile = true
 
 [[files]]
