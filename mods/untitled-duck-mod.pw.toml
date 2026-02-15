@@ -1,13 +1,13 @@
 name = "Untitled Duck Mod"
-filename = "untitledduckmod-fabric-1.21.11-1.3.5.jar"
+filename = "untitledduckmod-fabric-1.21.11-1.5.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ojFjz7JF/versions/QtOSIEGq/untitledduckmod-fabric-1.21.11-1.3.5.jar"
+url = "https://cdn.modrinth.com/data/ojFjz7JF/versions/dIATc17L/untitledduckmod-fabric-1.21.11-1.5.2.jar"
 hash-format = "sha512"
-hash = "d9a8321bd426b3e72656d931e4c2ed87ce8a7becc9547c0938d19f6828b3eb2877d84ad2d89fb87528453464ce904513976b88872c6719f2f5b30bab8074e164"
+hash = "9bd256e385d44eea8a64426795bb87da5cc148e8bc174ae43f74826866a7b4f42beda40c969cd5828a6d5680b1075c739524041a260d3603c194d4f8f1180a76"
 
 [update]
 [update.modrinth]
 mod-id = "ojFjz7JF"
-version = "QtOSIEGq"
+version = "dIATc17L"

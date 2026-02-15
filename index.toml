@@ -612,7 +612,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchancement.pw.toml"
-hash = "3e83979e820120e40426a83be9e56ca21d51808353793688de6a3d83342a542e"
+hash = "6cf55d61ed3e5f261da4f645549352ac06dcde4dead08f46c20a9fa0316e2a0e"
 metafile = true
 
 [[files]]
@@ -627,7 +627,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "241cece83d6a3c7c0338a9b625972ee25747d14684810778bc64d9613f7a49a1"
+hash = "45abf05e1cc90006aeb65e4e1bbe97da5a1984f547ea8028a077dae68af0ac11"
 metafile = true
 
 [[files]]
@@ -667,7 +667,7 @@ metafile = true
 
 [[files]]
 file = "mods/hardcore-revival.pw.toml"
-hash = "218276e5459fe0883cac6c666b333368c2c528c12156c1aebfc5127b8ecf827b"
+hash = "1e074eb5e09fc5a36812afb1de17bb0b34cc5ef22b71f9448a9be3326ad42959"
 metafile = true
 
 [[files]]
@@ -687,7 +687,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "d286ca8f870f64dfe1a7e86adf0168bd5af0c90908b540ffc5670240b181d188"
+hash = "276947b1f9933ca2220a00736aba177e4034ca9a45cad9f258abf762fdb3bb0b"
 metafile = true
 
 [[files]]
@@ -777,7 +777,7 @@ metafile = true
 
 [[files]]
 file = "mods/nycto.pw.toml"
-hash = "7300a9d88fed322489256b2eda0599655a10c9443df2a66bbf456952214188dd"
+hash = "1e5bf2b95ac09344fbe381a9f259a7a90a0989f39f16879fbb8ffc5d2f562587"
 metafile = true
 
 [[files]]
@@ -827,7 +827,7 @@ metafile = true
 
 [[files]]
 file = "mods/respawnable-pets.pw.toml"
-hash = "acf62dbb277f3423ce6c04efca3e5c1d036308a5d96b3ba5233a0d2b969eb943"
+hash = "95eabaf1f7632c88e674ffb61b9e513fcffbdbb223d3272b37f5f61b2e9d2335"
 metafile = true
 
 [[files]]
@@ -922,7 +922,7 @@ metafile = true
 
 [[files]]
 file = "mods/untitled-duck-mod.pw.toml"
-hash = "84aefe21b0b163a00b3d843b9751f3012edd215d3d0708b8399bcda3d8e007de"
+hash = "23517a178370493edf0d013162f55cc6c1a5944c6e80a0aa272ec1f77b0a8094"
 metafile = true
 
 [[files]]

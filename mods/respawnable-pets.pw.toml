@@ -1,13 +1,13 @@
 name = "Respawnable Pets"
-filename = "respawnablepets-1.21.11-r2.jar"
+filename = "respawnablepets-1.21.11-r3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/gbFe1FWa/versions/sX4NjBZI/respawnablepets-1.21.11-r2.jar"
+url = "https://cdn.modrinth.com/data/gbFe1FWa/versions/XZKqAd1N/respawnablepets-1.21.11-r3.jar"
 hash-format = "sha512"
-hash = "ccaa7b54616c4eeec01d437ce916ee798323d4fb2f68c66ecf47afddbbda26652f924574041d47dc8c30f375217d2c23e192ec4f064a272e2fdf3b6ba00ec80a"
+hash = "e99c33ec36dc0725c3471148dfcf81cd0a37ced37feec7c900d08e3d56beee769692c74be093497a3b2956396ebf380d62981c619791f1282f5c46137cd8cde6"
 
 [update]
 [update.modrinth]
 mod-id = "gbFe1FWa"
-version = "sX4NjBZI"
+version = "XZKqAd1N"
