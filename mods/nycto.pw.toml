@@ -1,13 +1,13 @@
 name = "Nycto"
-filename = "nycto-1.21.11-b6.jar"
+filename = "nycto-1.21.11-b7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/tnTEDxIj/versions/BNddWeeC/nycto-1.21.11-b6.jar"
+url = "https://cdn.modrinth.com/data/tnTEDxIj/versions/ejwBt1f7/nycto-1.21.11-b7.jar"
 hash-format = "sha512"
-hash = "6e6a2dfdc4840b913f043e05de9065e0eb353cfd3c13a2458ca4081292bda767291721be1ff18e7d36fc7e52df35140ddc6a6a513b6e835d037f9b59402b09e7"
+hash = "fc5d315e1d50b3b597091769844bab98184db1d0394ca6da7afeccbf6e723606daaaf8101cddf8cb8b573ec9e4fa68b4cf61e33fe33de8957c7438a851983a21"
 
 [update]
 [update.modrinth]
 mod-id = "tnTEDxIj"
-version = "BNddWeeC"
+version = "ejwBt1f7"

@@ -777,7 +777,7 @@ metafile = true
 
 [[files]]
 file = "mods/nycto.pw.toml"
-hash = "1e5bf2b95ac09344fbe381a9f259a7a90a0989f39f16879fbb8ffc5d2f562587"
+hash = "72fb654ce16e46b8ca3c7ae60f7cf466d4588fee9f056bb432f4fb422cf875c0"
 metafile = true
 
 [[files]]
