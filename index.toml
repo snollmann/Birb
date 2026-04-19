@@ -507,7 +507,7 @@ metafile = true
 
 [[files]]
 file = "mods/audioplayer.pw.toml"
-hash = "00badc0ab16c28bc2b1a9c1d6bf5491f62a874d0d60083de3fd0807c9eb7e1b0"
+hash = "c07a63d624956f8778dc3d84fcdbe83033a5f41183a359ade3732d2ea69b04ed"
 metafile = true
 
 [[files]]
@@ -772,7 +772,7 @@ metafile = true
 
 [[files]]
 file = "mods/nullscape.pw.toml"
-hash = "49e60e67eff7854052e260a9747a73bc818901c6be87d92060ea163b11f3b00e"
+hash = "736067d015533807f800f5635900431a5715dec753c7665fa57766c181f145b6"
 metafile = true
 
 [[files]]
@@ -852,7 +852,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "c073f13897a838e3c409e46b8a1d8cb510d6a6584dd815aeadaf4886f1779513"
+hash = "fc9e8b3b78f2b454d260f7cefa26834a352e146cdcfd44a6637544df335087a1"
 metafile = true
 
 [[files]]
