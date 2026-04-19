@@ -1,13 +1,13 @@
 name = "Backslot Mod"
-filename = "backslot-1.1.6.jar"
+filename = "backslot-1.1.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/FaerFwHL/versions/ppBeC080/backslot-1.1.6.jar"
+url = "https://cdn.modrinth.com/data/FaerFwHL/versions/z4acfpBg/backslot-1.1.7.jar"
 hash-format = "sha512"
-hash = "efef73dc570af38bf6563eff55c19bafb3cda579d52bd1ecb932359767ffab1307196b437454eb173754e9c90dd7b225805cf22c0acb641fe733d56c2661cff7"
+hash = "a9b400eb009d5fe96bdf20614996dab9e79213f9c88db9d5d425e0c6960e5c06189f2ae4bab9b36d970f55a573e8877b2792cc524e00239cd17f348c31557602"
 
 [update]
 [update.modrinth]
 mod-id = "FaerFwHL"
-version = "ppBeC080"
+version = "z4acfpBg"

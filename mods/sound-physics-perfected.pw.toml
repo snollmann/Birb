@@ -1,17 +1,13 @@
 name = "Sound Physics Perfected"
-filename = "sound_physics_perfected-1.15+1.21.9-fabric.jar"
+filename = "sound_physics_perfected-1.17.0-alpha+1.21.9-fabric.jar"
 side = "client"
 
-[option]
-optional = true
-default = false
-
 [download]
-url = "https://cdn.modrinth.com/data/KS6Hbu9Z/versions/9u320aMy/sound_physics_perfected-1.15%2B1.21.9-fabric.jar"
+url = "https://cdn.modrinth.com/data/KS6Hbu9Z/versions/UpeldSHu/sound_physics_perfected-1.17.0-alpha%2B1.21.9-fabric.jar"
 hash-format = "sha512"
-hash = "b463fa8ec3597705c3dfd0a78bd4722664e70a9cdc72516716bc32e2175e807e25418d684f1120455a87075202c68c4568326f3825cfe39041a6ff4cae577ac8"
+hash = "44a8d5f6bdbca9813bc63616c55715bf6da53bd80d5bbe5f37806b5e78cc58d57531a02774e565e8c6b3bb89326ead9ae17800084334e84fc818c1dc98c0cf21"
 
 [update]
 [update.modrinth]
 mod-id = "KS6Hbu9Z"
-version = "9u320aMy"
+version = "UpeldSHu"
